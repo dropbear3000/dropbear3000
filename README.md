@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dropbear3000
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning Windows support (after being an OSX person for so long)
+- 👀 I’m interested in everything.
+- 🌱 I teach Digital Technology in a high school.
 - 📫 How to reach me: stanley.no.4@proton.me
 
 <!---
